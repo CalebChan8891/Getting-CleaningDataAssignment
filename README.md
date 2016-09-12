@@ -1,4 +1,4 @@
-# Getting-CleaningDataAssignment
+# Getting and Cleaning Data Assignment
 This is the course project for the Getting and Cleaning Data Coursera course. 
 
 ## List of files
