@@ -4,13 +4,13 @@ This code book summarizes the resulting data fields in tidy.txt and contains a d
 ## Identifiers
 ActivityNum - The number of activity performed when the corresponding measurements were taken Measurements. Please refer to Activity Labels below for more details.
 
-Activity - The type of activity performed when the corresponding measurements were taken
-Measurements
-
-Subject - The ID of the test subject
+Activity - The type of activity performed when the corresponding measurements were taken. Please refer to Activity Labels below for more details.
 
 
-## Variables
+Subject - The ID of the test subject. There are 30 subjects i.e. ID is 1:30.
+
+
+## Variables. Note: For variable, the values were normalized and therefore these values are between -1 and 1.
 * tBodyAccMeanX
 * tBodyAccMeanY
 * tBodyAccMeanZ
